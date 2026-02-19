@@ -181,13 +181,13 @@ export default function PyramidRanking() {
         }}
       >
         {/* HEADER */}
-        <div className="w-full flex flex-col items-center pt-10 pb-4 relative mx-auto">
+        <div className="w-3/5 flex flex-col items-center pt-10 pb-4 relative mx-auto">
           <h1
             className="text-transparent bg-clip-text uppercase"
             style={{
               fontFamily: "'Bebas Neue', sans-serif",
               letterSpacing: "0.25em",
-              fontSize: "3.5rem",
+              fontSize: "3rem",
               backgroundImage: "linear-gradient(to bottom, #fcd34d, #d97706)",
             }}
           >
