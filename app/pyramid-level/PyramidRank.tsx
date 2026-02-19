@@ -181,7 +181,7 @@ export default function PyramidRanking() {
         }}
       >
         {/* HEADER */}
-        <div className="w-full flex flex-col items-center pt-10 pb-4 relative">
+        <div className="w-full flex flex-col items-center pt-10 pb-4 relative mx-auto">
           <h1
             className="text-transparent bg-clip-text uppercase"
             style={{
